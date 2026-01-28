@@ -1,1 +1,2 @@
 Edited test2 text file 
+New line of code
